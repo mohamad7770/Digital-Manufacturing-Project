@@ -1,5 +1,5 @@
 CAD/CAM 
-- 3D Printing: PrusaSlicer + FDM Printer
+- 3D Printing: PrusaSlicer 
 - Laser Cutting: CorelDRAW + Laser Cutter
  Project Contents
 - CAD models (SolidWorks files)
