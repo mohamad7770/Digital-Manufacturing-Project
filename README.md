@@ -37,13 +37,17 @@ All design files are available for download from the CAD/ folder.
 
 ### Hardware/Machines:*   
 3D Printer: For printing plastic organizers.
+
+
 <img width="408" height="554" alt="image" src="https://github.com/user-attachments/assets/cfbe23a4-6e66-48e1-b7d1-b41f4d27c88c" />
 
 *   Laser Cutter/Engraver: For cutting toolboxparts from wood.
+
+ 
 *   ![gcc_laserpro_spirit_gls_hybrid](https://github.com/user-attachments/assets/f4418fb1-e348-4bb6-8f7b-9560ebd24e22)
 
 *  Print Material: PLA Filament.
-*   Laser Material: 3mm Thick Plywood.
+* Laser Material: 3mm Thick Plywood.
 
    ## 🛠Manufacturing Process 1. 
 
@@ -91,6 +95,8 @@ All design files are available for download from the CAD/ folder.
 
 
 *  4.  Assembly & Installation: Assembling partsand mounting them on the wall.
+
+  
 <img width="524" height="850" alt="image" src="https://github.com/user-attachments/assets/bd1ee686-2924-4313-91a5-5060e215e17b" />
 
 <img width="523" height="1011" alt="image" src="https://github.com/user-attachments/assets/80d5e5c9-f082-4b19-8587-0bbac1d358ab" />
@@ -109,14 +115,14 @@ All design files are available for download from the CAD/ folder.
 
 
 ## 🖼 Final Results
-![photo_2025-11-25_18-52-33](https://github.com/user-attachments/assets/228c32d9-ab19-4728-888b-dc1df6725546)
+
+
+<img width="692" height="371" alt="image" src="https://github.com/user-attachments/assets/768eba03-0b45-4c87-b11e-a1eb98d92f16" />
 
 
 
 
- ## ✅ Conclusion This proj
-
-ect successfullydemonstrated the practical feasibility of digital manufacturing in creatingeffective, custom solutions. By integrating Computer-Aided Design with modernfabrication technologies, a set of organizers was developed that significantlyimproved workspace organization, thereby enhancing the students' practicalskills and technical understanding
+ ## ✅ Conclusion This project successfullydemonstrated the practical feasibility of digital manufacturing in creatingeffective, custom solutions. By integrating Computer-Aided Design with modernfabrication technologies, a set of organizers was developed that significantlyimproved workspace organization, thereby enhancing the students' practicalskills and technical understanding
 
 
 
