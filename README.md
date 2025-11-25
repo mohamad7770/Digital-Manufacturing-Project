@@ -32,7 +32,7 @@ All design files are available for download from the CAD/ folder.
 · caliper_holder.stl - .SLDPRT
  Tape Measure and Ruler .STL-  .SLDPRT
 
-. project.WORDE
+. project.WORD
 
 
 ### Hardware/Machines:*   
