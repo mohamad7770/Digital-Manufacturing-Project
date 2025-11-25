@@ -9,9 +9,9 @@
  Caliper
  Tape Measure and Ruler 
 
- 🎯 Mission & Objective T
-
-he primary goal was tobridge theoretical knowledge in design software (like SolidWorks) with thepractical operation of digital fabrication machines (3D Printer and LaserCutter) to create tangible, organizational solutions that address specificneeds.
+ 🎯 Mission & Objective
+ 
+ The primary goal was tobridge theoretical knowledge in design software (like SolidWorks) with thepractical operation of digital fabrication machines (3D Printer and LaserCutter) to create tangible, organizational solutions that address specificneeds.
 ## ⚙Components & Tools 
 ### Software:*  
  SolidWorks: For  designing the organizers.
